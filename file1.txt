@@ -1,3 +1,0 @@
-This is my first file
-adding second line to the first file
-testing diff
