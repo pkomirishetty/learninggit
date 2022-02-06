@@ -1,2 +1,6 @@
-This is new file on master file5.txt:wq
+
+This is new file on master file5.txt
+
+
+This is file created on B1
 
